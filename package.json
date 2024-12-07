@@ -1,0 +1,39 @@
+{
+  "name": "node-server-setup",
+  "version": "1.0.0",
+  "description": "A CLI tool to quickly set up a Node.js server with an initial project structure, including boilerplate code, and configuration for authentication, routing, and database setup.",
+  "bin": {
+    "create-node-server": "./bin/create-node-server.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "ncp": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./bin/create-node-server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "files": [
+    "bin/",
+    "README.md",
+    "package.json",
+    "index.js",
+    "templates/"
+  ],
+  "author": "Ak",
+  "license": "ISC",
+  "keywords": [
+    "node.js",
+    "server",
+    "setup",
+    "express.js",
+    "cli",
+    "generator",
+    "starter",
+    "authentication",
+    "jwt",
+    "project",
+    "boilerplate"
+  ]
+}
