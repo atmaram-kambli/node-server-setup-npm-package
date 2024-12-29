@@ -2,7 +2,7 @@
 
 ## Overview
 
-`node-server-setup` is a robust npm package that provides a quick and comprehensive boilerplate for Node.js server development. It offers a pre-configured server structure with integrated user management API, allowing developers to jumpstart their backend projects with minimal setup.
+A `node-server-setup` is a robust npm package that provides a quick and comprehensive boilerplate for Node.js server development. It offers a pre-configured server structure with integrated user management API, allowing developers to jumpstart their backend projects with minimal setup.
 
 ## Features
 
